@@ -1,4 +1,4 @@
-# Data_Science_Projects
+# Decodr_Class_Assignments
 To predict the prices of house
 
 ## Technologies_used
